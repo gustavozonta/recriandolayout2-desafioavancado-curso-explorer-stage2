@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img alt="Desafio Introdução HTMl e CSS" src="./images/project-img-all.png" width="100%">
+  <img alt="Desafio Introdução HTMl e CSS" src="./images/project-img.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
